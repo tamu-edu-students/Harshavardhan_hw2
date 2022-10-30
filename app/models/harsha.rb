@@ -1,0 +1,2 @@
+class Harsha < ApplicationRecord
+end
